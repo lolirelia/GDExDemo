@@ -7,3 +7,4 @@ compatibility_minimum = "4.2"
 
 
 macos.debug = "res://liblogicinternal.macos.template_debug.framework"
+windows.debug.x86_64 = "res://liblogicinternal.windows.template_debug.x86_64.dll"
